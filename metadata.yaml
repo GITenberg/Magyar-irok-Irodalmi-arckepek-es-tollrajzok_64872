@@ -1,11 +1,16 @@
 _repo: Magyar-irok-Irodalmi-arckepek-es-tollrajzok_64872
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schöpflin, Aladár
     gutenberg_agent_id: '53082'
     url: http://www.gutenberg.org/2009/agents/53082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64872#Magyar-irok-Irodalmi-arckepek-es-tollrajzok
 gutenberg_issued: '2021-03-19'
 gutenberg_type: Text
 identifiers:
